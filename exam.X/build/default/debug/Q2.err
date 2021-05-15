@@ -1,0 +1,3 @@
+Warning[205] C:\USERS\USER\MPLABXPROJECTS\EXAM.X\Q2.ASM 1 : Found directive in column 1. (LIST)
+Error[113]   C:\USERS\USER\MPLABXPROJECTS\EXAM.X\Q2.ASM 29 : Symbol not previously defined (wreg)
+Warning[205] C:\USERS\USER\MPLABXPROJECTS\EXAM.X\Q2.ASM 77 : Found directive in column 1. (end)
