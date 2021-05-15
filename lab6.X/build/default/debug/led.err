@@ -1,0 +1,8 @@
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 8 : Found label after column 1. (cnt_i)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 9 : Found label after column 1. (cnt_j)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 14 : Found label after column 1. (delay)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 39 : Found label after column 1. (start)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 40 : Found label after column 1. (init)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 48 : Found label after column 1. (s1)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 19 : Found label after column 1. (outerloop)
+Warning[207] C:\USERS\USER\MPLABXPROJECTS\LAB666.X\LED.ASM 22 : Found label after column 1. (innerloop)
